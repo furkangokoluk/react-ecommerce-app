@@ -1,0 +1,19 @@
+.bskt-add-btn{
+    margin-top: 25px;
+    border: none;
+    padding: 10px;
+    background-color: lightsalmon;
+    border-radius: 5px;
+}
+
+.bskt-add-btn:hover{
+    cursor: pointer;
+}
+
+.icon{
+    font-size: 40px;
+}
+
+.icon:hover{
+    cursor: pointer;
+}

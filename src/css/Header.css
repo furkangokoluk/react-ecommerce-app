@@ -1,0 +1,28 @@
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.logo-text{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.search-input{
+    border: none;
+    border-bottom: 1px solid lightgrey;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.icon{
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 15px;
+}
+
+.icon:hover{
+    cursor: pointer;
+    color:rgb(46, 46, 46)
+}
